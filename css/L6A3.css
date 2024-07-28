@@ -1,0 +1,64 @@
+
+        li{
+            background-color: cornflowerblue;
+            font-size: 20px;
+        }
+
+        h1{
+            color: skyblue;
+            background-color: darkblue;
+            text-align: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        ol{
+            background-color: royalblue;
+        }
+        .profile {
+            background-color: #3e92cc;
+            text-align: center;
+        }
+
+        .even-row {
+            background-color: #5764a5;
+        }
+
+        .navbar {
+            background-color: #fffaff;
+            border: solid #000080;
+            font-size: 20px;
+            position: sticky;
+            top: 0px;
+        }
+        
+        .dropdown {
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #fffaff;
+            color: #000080;
+            padding: 5px;
+            box-shadow: 5px 5px 10px black;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .active {
+            background-color: lightcoral;
+        }
+
+        a {
+            color: navy;
+            text-decoration: none;
+        }
+
+
+        .profile p {
+            background-color: purple;
+            color: white;
+        }
